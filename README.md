@@ -1,11 +1,28 @@
 <h1>Olá, meu nome é Daiane Santana de Oliveira. 👋</h1> 
 
-<div>
-  <a href="https://github.com/Daiane2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=Daiane2001&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true" />
+</picture>
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiane2001&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiane2001&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true" />
+</picture>
 
 <!--
 **Daiane2001/Daiane2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
