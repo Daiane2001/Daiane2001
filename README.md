@@ -1,6 +1,7 @@
 <h1>Olá, eu sou a Daiane! 👋</h1> 
 
-<p></p>
+<p>Sou apaixonada por dados e estou aos poucos mostrando meus trabalhos.</p>
+<p>Obrigada por estar aqui!</P>
 
 <div>
   <a href="https://github.com/Daiane2001">
@@ -17,6 +18,8 @@
 </div>
   
   ##
+
+<h3>Últimos Projetos: </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daiane2001&repo=Automatizando-Tarefas" />
