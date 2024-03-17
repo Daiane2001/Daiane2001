@@ -14,10 +14,10 @@
 
 <h3>Últimos Projetos: </h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Daiane2001/Automatizando-Tarefas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daiane2001&repo=Automatizando-Tarefas" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Daiane2001/Be-The-Hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daiane2001&repo=Be-The-Hero" />
 </a>
 
