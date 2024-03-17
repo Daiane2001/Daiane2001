@@ -10,11 +10,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daiane2001&layout=compact&langs_count=8&card_width=320" />
 </a>
-<div>
-  <a href="https://github.com/Daiane2001">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiane2001&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
 
   
   ##
