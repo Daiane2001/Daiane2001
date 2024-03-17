@@ -3,6 +3,13 @@
 <p>Sou apaixonada por dados e estou aos poucos mostrando meus trabalhos por aqui e através do meu <a href="https://sites.google.com/view/daiane-santana-de-oliveira/p%C3%A1gina-inicial">portfólio</a>.</p>
 <p>Obrigada por estar aqui!</P>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <div>
   <a href="https://github.com/Daiane2001">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Daiane2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
