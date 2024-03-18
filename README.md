@@ -1,7 +1,7 @@
 <h1>Olá, eu sou a Daiane! 👋</h1> 
 
-<p>Sou apaixonada por análise de dados e estou aos poucos mostrando meus trabalhos por aqui e através do meu <a href="https://sites.google.com/view/daiane-santana-de-oliveira/p%C3%A1gina-inicial">portfólio</a>.</p>
-<p>Obrigada por estar aqui!</P>
+<p>Sou apaixonada por análise de dados e aos poucos vou estar mostrando meus trabalhos por aqui e através do meu <a href="https://sites.google.com/view/daiane-santana-de-oliveira/p%C3%A1gina-inicial">portfólio</a>.</p>
+<p>Obrigada, por estar aqui! 🥰</P>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
