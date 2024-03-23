@@ -33,7 +33,9 @@
 
 <p></p>
 
+<div>
 <iframe title="Dashboard Vendas de Ventiladores" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGI2ODg2MzktNzlhYS00Y2Q1LWEwZGMtODYzZjE3MmFlMzZmIiwidCI6ImY0MzY5ZDlkLWYyZTMtNGMxZC1hYzViLTE4OTQwNjAwMDg4ZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
 
  ##
 
