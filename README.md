@@ -27,7 +27,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daiane2001&repo=Be-The-Hero" />
 </a>
 
+##
+
+<h3>Análise de Dados: </h3>
+
+<p></p>
+
+<iframe title="Dashboard Vendas de Ventiladores" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGI2ODg2MzktNzlhYS00Y2Q1LWEwZGMtODYzZjE3MmFlMzZmIiwidCI6ImY0MzY5ZDlkLWYyZTMtNGMxZC1hYzViLTE4OTQwNjAwMDg4ZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
  ##
+
  
 <div> 
   <a href="oliveira.daiane.2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
